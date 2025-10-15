@@ -10,7 +10,7 @@ My projects range from full-stack web systems to C++ desktop applications and br
 
 ---
 ## Education
-- B.Sc., Cybersecurity |  University of Wollongong @ (SIM Singapore) (_Sep 2025_)								       		
+- B.Sc., Cybersecurity |  University of Wollongong Australia @ (SIM Singapore) (_Sep 2025_)								       		
 - Dip., Inforamtion Technology	| Singapore Institute of Management (_June 2023_)
 
 ---
