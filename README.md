@@ -1,18 +1,17 @@
 # 👋 Hi, I'm Min Myat Han  
 
-## Education
-- B.Sc., Cybersecurity |  University of Wollongong @ (SIM Singapore) (_Sep 2025_)								       		
-- Dip., Inforamtion Technology	| Singapore Institute of Management (_June 2023_)
-
----
-
 ##  About Me  
 
 I’m a highly motivated and detail-oriented Computer Science graduate focused on **Cybersecurity**, **AI for Security**, and **Software Engineering**.  
 My projects range from full-stack web systems to C++ desktop applications and browser extensions - all driven by an interest in real-world problem solving and system security.  
 
-🌱 **Currently Learning:** Google's CyberSecurity Cert (preparing for CompTIA Security+), Deutsche, and AWS 
-🧩 **Interested In:** Vulnerability scanning, automation scripting, backend engineering, and secure system design  
+🌱 **Currently Learning:** Google's CyberSecurity Cert (preparing for CompTIA Security+), Deutsche, and AWS.
+🧩 **Interested In:** Vulnerability scanning, automation scripting, backend engineering, and secure system design.
+
+---
+## Education
+- B.Sc., Cybersecurity |  University of Wollongong @ (SIM Singapore) (_Sep 2025_)								       		
+- Dip., Inforamtion Technology	| Singapore Institute of Management (_June 2023_)
 
 ---
 
