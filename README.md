@@ -1,4 +1,3 @@
-# Whoami
 # 👋 Hi, I'm Min Myat Han  
 
 🎓 **Computer Science student @ University of Wollongong (SIM Singapore)**  
@@ -66,17 +65,10 @@ Explores adversarial machine learning, universal perturbations, and malware/spam
 
 ---
 
-## 📈 GitHub Stats  
-
-![Min Myat Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=minmyathan&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minmyathan&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/minmyathan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minmyathan@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/min-myat-han-300623302/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minmh09@gmail.com)
 
 ---
 
