@@ -13,7 +13,6 @@ My projects range from full-stack web systems to C++ desktop applications and br
 
 🌱 **Currently Learning:** Google's CyberSecurity Cert (preparing for CompTIA Security+), Deutsche, and AWS 
 🧩 **Interested In:** Vulnerability scanning, automation scripting, backend engineering, and secure system design  
-⚙️ **Tools & Environments:** Visual Studio Code, JetBrains, MySQL, Jira, and Git
 
 ---
 
