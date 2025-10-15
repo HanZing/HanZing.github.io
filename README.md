@@ -5,7 +5,7 @@
 I’m a highly motivated and detail-oriented Computer Science graduate focused on **Cybersecurity**, **AI for Security**, and **Software Engineering**.  
 My projects range from full-stack web systems to C++ desktop applications and browser extensions - all driven by an interest in real-world problem solving and system security.  
 
-🌱 **Currently Learning:** Google's CyberSecurity Cert (preparing for CompTIA Security+), Deutsche, and AWS.
+🌱 **Currently Learning:** Google's CyberSecurity Cert (preparing for CompTIA Security+), Deutsche, and AWS.                                        
 🧩 **Interested In:** Vulnerability scanning, automation scripting, backend engineering, and secure system design.
 
 ---
