@@ -8,16 +8,16 @@
 
 ##  About Me  
 
-I’m a highly motivated and detail-oriented Computer Science student focused on **Cybersecurity**, **AI for Security**, and **Software Engineering**.  
+I’m a highly motivated and detail-oriented Computer Science graduate focused on **Cybersecurity**, **AI for Security**, and **Software Engineering**.  
 My projects range from full-stack web systems to C++ desktop applications and browser extensions - all driven by an interest in real-world problem solving and system security.  
 
-🌱 **Currently Learning:** Google's CyberSecurity Cert (preparing for CompIA+), Deutsche, and AWS 
+🌱 **Currently Learning:** Google's CyberSecurity Cert (preparing for CompTIA Security+), Deutsche, and AWS 
 🧩 **Interested In:** Vulnerability scanning, automation scripting, backend engineering, and secure system design  
-⚙️ **Tools & Environments:** Visual Studio, PyCharm, VS Code, VirtualBox, Kali Linux, Oracle 19c, MySQL, MongoDB  
+⚙️ **Tools & Environments:** Visual Studio Code, JetBrains, MySQL, Jira, and Git
 
 ---
 
-## 🧰 Tech Stack  
+## Tech Stack  
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -45,7 +45,7 @@ My projects range from full-stack web systems to C++ desktop applications and br
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects  
 
 ### 🎧 [Otodecks – DJ Mixing Application](https://github.com/yourusername/otodecks)
 > C++ / JUCE / Audio DSP  
