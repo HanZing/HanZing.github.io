@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Min Myat Han  
 
-🎓 **Computer Science student @ University of Wollongong (SIM Singapore) (Sep 2025)**  
-🔒 **Cybersecurity & Software Engineering Enthusiast**  
-💡 Passionate about building secure, intelligent, and user-friendly software systems  
+## Education
+- B.Sc., Cybersecurity |  University of Wollongong @ (SIM Singapore) (_Sep 2025_)								       		
+- Dip., Inforamtion Technology	| Singapore Institute of Management (_June 2023_)
 
 ---
 
-## 🧠 About Me  
+##  About Me  
 
 I’m a highly motivated and detail-oriented Computer Science student focused on **Cybersecurity**, **AI for Security**, and **Software Engineering**.  
 My projects range from full-stack web systems to C++ desktop applications and browser extensions - all driven by an interest in real-world problem solving and system security.  
 
-🌱 **Currently Learning:** Secure Software Design, Adversarial ML, and DevSecOps  
+🌱 **Currently Learning:** Google's CyberSecurity Cert (preparing for CompIA+), Deutsche, and AWS 
 🧩 **Interested In:** Vulnerability scanning, automation scripting, backend engineering, and secure system design  
 ⚙️ **Tools & Environments:** Visual Studio, PyCharm, VS Code, VirtualBox, Kali Linux, Oracle 19c, MySQL, MongoDB  
 
