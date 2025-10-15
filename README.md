@@ -54,7 +54,7 @@ A desktop DJ mixing application with custom deck controls, waveform visualizatio
 > PHP / MySQL / JavaScript  
 A web system for buying and selling used cars — features dashboards for Admins, Agents, Sellers, and Buyers with rating and review modules.
 
-### 🧩 [Client-Side Script Security Inspector (Browser Extension)](https://github.com/yourusername/client-side-security-inspector)
+### 🧩 [Client-Side Script Security Inspector (Browser Extension)](https://github.com/yourusername/client-side-security-inspector) ([https](https://github.com/HanZing/vuln)
 > JavaScript / HTML / Chrome Extension API  
 A browser extension that scans webpages for client-side vulnerabilities (CSP, XSS, CSRF, insecure JS libraries) and generates a security report.
 
