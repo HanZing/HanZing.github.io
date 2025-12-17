@@ -2,11 +2,72 @@
 
 ##  About Me  
 
-I’m a highly motivated and detail-oriented Computer Science graduate focused on **Cybersecurity**, **AI for Security**, and **Software Engineering**.  
-My projects range from full-stack web systems to C++ desktop applications and browser extensions - all driven by an interest in real-world problem solving and system security.  
 
-🌱 **Currently Learning:** Google's CyberSecurity Cert (preparing for CompTIA Security+), Deutsche, and AWS.                                        
-🧩 **Interested In:** Vulnerability scanning, automation scripting, backend engineering, and secure system design.
+MIN MYAT HAN
+📞 +66 6442 08315
+✉️ minmh09@gmail.com
+🏠 Phaya Thai, Bangkok 10400, Thailand
+🌐 hanzing.github.io
+💼 https://www.linkedin.com/in/min-myat-han-300623302/
+
+
+👤 PROFILE
+Results-driven resourceful individual with hands-on experience in L1 support, incident triage, and clear customer communication. Comfortable performing structured investigations, validating data issues with basic SQL checks, and documenting troubleshooting steps in SOP-friendly format. Strong interest in BI and analytics workflows, with a practical, calm approach to resolving tickets and escalating with the right context to engineering/integrations teams.
+I'm seeking for new opportunities to leverage my experience in challenging and rewarding working environment.
+
+📋TECHNICAL SUMMARY
+Programming Languages:
+	Java
+	Python
+	JavaScript		HTML
+	PHP
+	Bash/Shell
+Tools, Operating Systems & Practices:
+	Windows (10/11)
+	Linux (Kali/Ubuntu)
+	Microsoft 365 
+	ServiceNow
+	Jira		Git & GitHub
+	JetBrains
+	Visual Studio Code
+	Jupyter Notebook
+Databases & Data Handling:
+	MySQL
+	SQL Query		Oracle DB
+	Mongo DB
+
+
+📁 EXPERIENCE & PROJECTS
+IT Support Engineer | Venti Tech
+JAN 2024 – SEP 2024
+• Provided Level 1 technical support to end users via ServiceNow, email, and phone.
+• Logged, triaged, and updated incidents and service requests in ServiceNow, ensuring tickets were categorized correctly and progressed according to SLAs.
+• Performed initial troubleshooting for desktop and laptop issues (OS errors, application problems, connectivity, VPN, printer issues, and basic hardware faults).
+• Updated and created simple knowledge base / internal notes for recurring issues to help improve future resolution times
+
+VulnEye – Client-Side Script Security Inspector | Project Contract 
+JAN 2025 – SEP 2025
+• Built a lightweight Chrome extension to scan websites for client-side security issues.
+• Implemented modular architecture using content scripts, background scripts, and a popup
+UI to collect, process, and display scan results.
+• Cleaned and integrated datasets to generate human-readable summaries and remediation
+suggestions based on detected security findings.
+• Updated and created simple knowledge base / internal notes for recurring issues to help improve future resolution times.
+
+🎓EDUCATION
+B.S. Computer Science (Cybersecurity) | University of Wollongong
+2023 – 2025
+Dip. Information Technology | Singapore Institute of Management
+2022 –  2023
+
+✪ SKILLS
+•	Critical thinking and problem solving
+•	Flexibility and Adaptability
+
+💬 LANGUAGES
+•	English – Professional
+•	Burmese – Native
+
 
 ---
 ## Education
