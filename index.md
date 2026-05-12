@@ -63,14 +63,14 @@ Seeking new opportunities to leverage my experience in a challenging and rewardi
 ## 📁 Experience & Projects
 
 ### IT Support Engineer | Venti Tech
-**Jan 2024 – Sep 2024**
+**Jan 2024 – Jan 2025**
 - Provided Level 1 technical support to end users via ServiceNow, email, and phone.
 - Logged, triaged, and updated incidents/service requests; ensured correct categorization and progress against SLAs.
 - Performed initial troubleshooting for desktop/laptop issues (OS, applications, connectivity, VPN, printers, basic hardware).
 - Updated and created simple internal notes/knowledge base entries for recurring issues to improve future resolution times.
 
 ### 🧩 VulnEye – Client-Side Script Security Inspector | Project Contract (https://github.com/yourusername/client-side-security-inspector)[![Vulneye](https://img.shields.io/badge/Vulneye-000000?style=for-the-badge&logoColor=white)](https://github.com/HanZing/vuln)
-**Jan 2025 – Sep 2025**
+**Apr 2025 – Sep 2025**
 - Built a lightweight Chrome extension to scan websites for client-side security issues.
 - Implemented modular architecture using content scripts, background scripts, and a popup UI to collect/process/display results.
 - Generated human-readable summaries and remediation suggestions from detected findings.
